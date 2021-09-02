@@ -24,3 +24,5 @@ Use the [Issues](https://github.com/PX4/px4_msgs/issues) section to create a new
 
 Reach the PX4 development team on the `#messaging` PX4 Slack channel:
 [![Slack](https://px4-slack.herokuapp.com/badge.svg)](http://slack.px4.io)
+
+Hello, world
